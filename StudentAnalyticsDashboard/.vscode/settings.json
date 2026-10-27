@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.testSourcePaths": ["src/test/java"],
+    "files.exclude": {
+        "**/target": false
+    }
+}

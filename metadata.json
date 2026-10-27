@@ -1,0 +1,6 @@
+{
+  "name": "Student Analytics Dashboard for Faculty",
+  "description": "Faculty Academic Record & Performance Analytics System built with Java 21, JavaFX 21, and Maven.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

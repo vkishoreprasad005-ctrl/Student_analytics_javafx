@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run JavaFX Dashboard (Main)",
+            "request": "launch",
+            "mainClass": "com.studentanalytics.Main",
+            "projectName": "student-analytics-dashboard",
+            "vmArgs": "--module-path ${env:JAVAFX_HOME}/lib --add-modules javafx.controls,javafx.graphics,javafx.base"
+        },
+        {
+            "type": "java",
+            "name": "Run JavaFX Dashboard (Launcher - No VM Args)",
+            "request": "launch",
+            "mainClass": "com.studentanalytics.Launcher",
+            "projectName": "student-analytics-dashboard"
+        }
+    ]
+}
